@@ -1,5 +1,5 @@
-test1234
-lastcowboy
+*test1234
+*lastcowboy
 goptions cback=black colors=(white cyan magenta gold yellow);
 
 data hat;
