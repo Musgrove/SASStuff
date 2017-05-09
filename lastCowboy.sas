@@ -1,7 +1,7 @@
 *test1234
 *lastcowboy
 *another comment
-&&1234
+&&12345
 goptions cback=black colors=(white cyan magenta gold yellow);
 
 data hat;
