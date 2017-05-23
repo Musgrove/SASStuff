@@ -2,7 +2,7 @@
 *lastcowboy
 *another comment
 &&123456789
-*123456789abcdefghijklmnopqrstuvwxyzimmermandannytblah12345678910111213
+*123456789abcdefghijklmnopqrstuvwxyzimmermandannytblah1234567891011121314
 goptions cback=black colors=(white cyan magenta gold yellow);
 
 data hat;
