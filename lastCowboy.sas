@@ -1,6 +1,6 @@
 *test1234
 *lastcowboy
-*another comment
+*another comment123
 &&1234567891011
 *123456789abcdefghijklmnopqrstuvwxyzimmermandannytblah1234567891011121314151617181920212223242526272813234567899988
 goptions cback=black colors=(white cyan magenta gold yellow);
