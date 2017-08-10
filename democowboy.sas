@@ -1,4 +1,4 @@
-123
+123456
 goptions cback=black colors=(white cyan magenta gold yellow);124
 
 data hat;
